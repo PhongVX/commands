@@ -4,13 +4,16 @@
 ```df -h```
 
 df: disk free
+
 -h: human-readable
 
 ### List Large Files and Directories
 ```du -ah / | sort -rh | head -10```
 
 du: disk usage
+
 du -ah: list all disk usage and human-readable
+
 sort -rh:  
   + sort: Sorts lines of text.
   + -r or --reverse: Sorts in descending order.
