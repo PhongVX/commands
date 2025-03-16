@@ -15,6 +15,7 @@ sort -rh:
   + sort: Sorts lines of text.
   + -r or --reverse: Sorts in descending order.
   + -h or --human-numeric-sort: Sorts numbers with human-readable suffixes
+    
 head -10: Displays the first 10 lines.
 
 
